@@ -1,0 +1,11 @@
+"id","nmobil","cc","bensin","daya","torsi","harga"
+1,Toyota Camry,1462 cc,60 L,178 W,221 HP,Rp.214200000
+2,Honda Civic,1000 cc,46 L,126 W,148 HP,Rp.219900000
+3,Ford Mustang,1569 cc,61 L,310 W,440 HP,Rp.432670000
+4,Chevrolet Silverado,2125 cc,98 L,285 W,413 HP,Rp.421400000
+5,BMW 3 Series,1248 cc,59 L,181 W,270 HP,Rp.222550000
+6,Mercedes-Benz C-Class,1486 cc,66 L,154 W,250 HP,Rp.323050000
+7,Audi A4,2125 cc,58 L,170 W,237 HP,Rp.419960000
+8,Nissan Rogue,4486 cc,55 L,128 W,154 HP,Rp.627500000
+9,Hyundai Elantra,5509 cc,53 L,182 W,264 HP,Rp.535750000
+10,Volkswagen Golf,4155 cc,50 L,160 W,292 HP,Rp.527175000

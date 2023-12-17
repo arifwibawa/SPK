@@ -1,0 +1,11 @@
+"id","nmobil","cc","bensin","daya","torsi","harga"
+1,Toyota Camry,1462,60,178,221,214200000
+2,Honda Civic,1000,46,126,148,219900000
+3,Ford Mustang,1569,61,310,440,432670000
+4,Chevrolet Silverado,2125,98,285,413,421400000
+5,BMW 3 Series,1248,59,181,270,222550000
+6,Mercedes-Benz C-Class,1486,66,154,250,323050000
+7,Audi A4,2125,58,170,237,419960000
+8,Nissan Rogue,4486,55,128,154,627500000
+9,Hyundai Elantra,5509,53,182,264,535750000
+10,Volkswagen Golf,4155,50,160,292,527175000
