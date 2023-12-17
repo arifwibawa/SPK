@@ -1,4 +1,4 @@
 # Tugas UAS SPK
-Nama : Arif Wibawa 
-NIM : 201011400974 
-Kelas : 07-TPLP-013 
+Nama : Arif Wibawa </br>
+NIM : 201011400974 </br>
+Kelas : 07-TPLP-013 </br>
